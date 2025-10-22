@@ -1,4 +1,13 @@
-## Hi there 👋
+### Hi there 👋 I'm Varshini Gopi
+
+I’m a Mathematics and Computing undergrad at IIT Ropar, passionate about AI, finance, and optimization.
+
+---
+
+![Varshini's GitHub stats](https://github-readme-stats.vercel.app/api?username=varshinigopi&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varshinigopi&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=varshinigopi&theme=radical)
+
 
 <!--
 **Varshini2005/Varshini2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
