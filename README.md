@@ -1,12 +1,23 @@
 ### Hi there 👋 I'm Varshini Gopi
 
-I’m a Mathematics and Computing undergrad at IIT Ropar, passionate about AI, finance, and optimization.
+I’m a Mathematics and Computing undergrad at IIT Ropar, passionate about Data Science and AI.
+
+  
 
 ---
 
-![Varshini's GitHub stats](https://github-readme-stats.vercel.app/api?username=varshinigopi&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varshinigopi&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=varshinigopi&theme=radical)
+### 📊 GitHub Stats  
+
+![Varshini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Varshini2005&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Varshini2005&layout=compact&theme=radical)  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Varshini2005&theme=radical)  
+
+---
+
+⭐️ *“Curiosity drives discovery.”*  
+
 
 
 <!--
