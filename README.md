@@ -1,8 +1,9 @@
 ### Hi there 👋 I'm Varshini Gopi
 
 I’m a Mathematics and Computing undergrad at IIT Ropar, passionate about Data Science and AI.
-
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=999236236054909761" height="354" width="450" frameborder="0" scrolling="no" ></iframe>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/7a/c7/1e/7ac71e72373b0fb270b3a6d72e44eea3.gif" width="800" alt="Portfolio Demo">
+</p>
   
 
 ---
