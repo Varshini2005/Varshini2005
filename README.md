@@ -2,7 +2,7 @@
 
 I’m a Mathematics and Computing undergrad at IIT Ropar, passionate about Data Science and AI.
 
-![Alt text](https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif)
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=999236236054909761" height="354" width="450" frameborder="0" scrolling="no" ></iframe>
   
 
 ---
