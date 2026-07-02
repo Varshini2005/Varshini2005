@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/e7/91/61/e791611718215a0cfc0ab96e71d1dc3f.gif" width="100%"  height="280" alt="Portfolio Demo">
+  <img src="https://i.pinimg.com/736x/34/83/d7/3483d734303174eb0f6fd51ba1a632c5.jpg" width="100%"  height="280" alt="Portfolio Demo">
 </p>
   
 ### Hi there 👋 I'm Varshini Gopi
