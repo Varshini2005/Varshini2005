@@ -3,6 +3,7 @@
     src="https://github.com/user-attachments/assets/2f737c88-9336-41ed-835c-070323cedd65"
     alt="GitHub image"
     width="100%"
+    height="320"
   />
 </p>
 
