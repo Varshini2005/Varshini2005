@@ -1,8 +1,9 @@
 
 <p align="center">
-  <a href="https://www.pinterest.com/pin/833799318545178699/">
-    <img src="YOUR_IMAGE_URL" width="450">
-  </a>
+  <img
+    src="https://github.com/user-attachments/assets/2f737c88-9336-41ed-835c-070323cedd65"
+    width="450"
+  />
 </p>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Varshini Gopi
