@@ -1,6 +1,8 @@
 
 <p align="center">
- <iframe src="https://assets.pinterest.com/ext/embed.html?id=833799318545178699" height="354" width="450" frameborder="0" scrolling="no" ></iframe>
+  <a href="https://www.pinterest.com/pin/833799318545178699/">
+    <img src="YOUR_IMAGE_URL" width="450">
+  </a>
 </p>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Varshini Gopi
